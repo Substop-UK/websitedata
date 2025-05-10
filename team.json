@@ -1,9 +1,31 @@
 [
   {
     "name": "Matthew Edwards",
-    "username": "@WilkcSwe",
+    "username": "WilkcSwe",
     "role": "Web Developer",
     "avatar": "1004421089398632468",
     "mail": "matthew.edwards@substop.org.uk"
-  }
+  },
+    {
+    "name": "Matthew Lindop",
+    "username": "m8ttech",
+    "role": "Managing Director",
+    "avatar": "794487962783842336",
+    "mail": "matthew@substop.org.uk"
+  },
+    {
+    "name": "Max Heughan",
+    "username": "max_heug",
+    "role": "Chief Operations Officer",
+    "avatar": "1155626670183694437",
+    "mail": "max@substop.org.uk"
+  },
+    {
+    "name": "Kai Bates",
+    "username": "RobloxFan56_56",
+    "role": "Cheif Staffing Officer",
+    "avatar": "1183465846580977735",
+    "mail": "kai@substop.org.uk"
+  },
+  
 ]
