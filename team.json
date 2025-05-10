@@ -3,48 +3,18 @@
     "name": "Ducki",
     "username": "@WilkcSwe",
     "role": "Founder",
-    "avatar": "https://api.t3d.uk/discord/avatar/1004421089398632468"
+    "avatar": "1004421089398632468"
   },
   {
     "name": "Tom",
     "username": "@tudoxsteve",
     "role": "Development Officer",
-    "avatar": "https://api.t3d.uk/discord/avatar/693739521413742683"
+    "avatar": "693739521413742683"
   },
   {
     "name": "Mufc_footy",
     "username": "@mufc_footy",
     "role": "Community Manager",
-    "avatar": "https://api.t3d.uk/discord/avatar/779376979597983745"
-  },
-  {
-    "name": "Nojus_Sushis",
-    "username": "@nojasas",
-    "role": "Community Supervisor",
-    "avatar": "https://api.t3d.uk/discord/avatar/713017224826322974"
-  },
-  {
-    "name": "Ruby",
-    "username": "@rubyroozac1",
-    "role": "Directions Officer",
-    "avatar": "https://api.t3d.uk/discord/avatar/1226541337055330420"
-  },
-  {
-    "name": "Stranger_Things",
-    "username": "@stranger_thingst",
-    "role": "Operational Officer",
-    "avatar": "https://api.t3d.uk/discord/avatar/1069786089411334164"
-  },
-  {
-    "name": "T0M",
-    "username": "@brickhare",
-    "role": "Marketing Officer",
-    "avatar": "https://api.t3d.uk/discord/avatar/842049342180950036"
-  },
-  {
-    "name": "ON1KAPETTY",
-    "username": "@on1kapetty",
-    "role": "Head Office",
-    "avatar": "https://api.t3d.uk/discord/avatar/756650346801004566"
+    "avatar": "779376979597983745"
   }
 ]
