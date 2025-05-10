@@ -1,20 +1,9 @@
 [
   {
-    "name": "Ducki",
+    "name": "Matthew Edwards",
     "username": "@WilkcSwe",
-    "role": "Founder",
-    "avatar": "1004421089398632468"
-  },
-  {
-    "name": "Tom",
-    "username": "@tudoxsteve",
-    "role": "Development Officer",
-    "avatar": "693739521413742683"
-  },
-  {
-    "name": "Mufc_footy",
-    "username": "@mufc_footy",
-    "role": "Community Manager",
-    "avatar": "779376979597983745"
+    "role": "Web Developer",
+    "avatar": "1004421089398632468",
+    "mail": "matthew.edwards@substop.org.uk"
   }
 ]
