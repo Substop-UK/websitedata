@@ -1,18 +1,18 @@
 [
   {
-    "department": "in-Store Roles",
+    "department": "In Store Roles",
     "role_name": "Crew Member",
     "description": "Join our frontline team...",
     "description2": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
     "link2": "discord.com",
-    "link": "/apply/corporate",
+    "link": "/apply/1",
     "exclusive": false
   },
   {
     "department": "Executive Role",
     "role_name": "Executive Opportunities",
     "description": "For those with exceptional leadership skills...",
-    "link": "/apply/executive",
+    "link": "/apply/2",
     "description2": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
     "link2": "discord.com",
     "exclusive": true
