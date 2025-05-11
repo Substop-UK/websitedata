@@ -28,17 +28,17 @@
     "mail": "lucas.lundy@substop.org.uk"
   },
   {
-    "name": "N/A",
-    "username": "N/A",
-    "role": "Chief Development Officer",
-    "avatar": "0",
-    "mail": "N/A"
-  },
-  {
     "name": "Matthew Edwards",
     "username": "WilkcSwe",
-    "role": "Web Developer",
+    "role": "Chief Development Officer",
     "avatar": "1004421089398632468",
     "mail": "matthew.edwards@substop.org.uk"
+  },
+  {
+    "name": "N/A",
+    "username": "N/A",
+    "role": "Assistant Development Officer",
+    "avatar": "0",
+    "mail": "N/A"
   }
 ]
