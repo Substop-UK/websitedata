@@ -1,11 +1,4 @@
 [
-  {
-    "name": "Matthew Edwards",
-    "username": "WilkcSwe",
-    "role": "Web Developer",
-    "avatar": "1004421089398632468",
-    "mail": "matthew.edwards@substop.org.uk"
-  },
     {
     "name": "Matthew Lindop",
     "username": "m8ttech",
@@ -40,5 +33,12 @@
     "role": "Chief Development Officer",
     "avatar": "0",
     "mail": "N/A"
+  },
+  {
+    "name": "Matthew Edwards",
+    "username": "WilkcSwe",
+    "role": "Web Developer",
+    "avatar": "1004421089398632468",
+    "mail": "matthew.edwards@substop.org.uk"
   }
 ]
