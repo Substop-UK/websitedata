@@ -3,7 +3,13 @@
     "department": "in-Store Roles",
     "role_name": "Crew Member",
     "description": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
-    "link": "substop.org.uk/apply/corporate",
+    "link": "https://substop.org.uk/apply/crew",
     "exclusive": false
+  },
+  {
+    "role_name": "Executive Opportunities",
+    "description": "For those with exceptional leadership skills and a vision for growth, we offer executive positions that help shape the future of SubStop in the Roblox ecosystem.",
+    "link": "https://substop.org.uk/apply/executive",
+    "exclusive": true
   }
 ]
