@@ -4,13 +4,6 @@
     "role_name": "Crew Member",
     "description": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
     "link": "substop.org.uk/apply/corporate",
-    "exclusive": false,
-  },
-    {
-    "department": "in-Store Roles",
-    "role_name": "Crew Member 2",
-    "description": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
-    "link": "substop.org.uk/apply/corporate",
-    "exclusive": true,
+    "exclusive": false
   }
 ]
