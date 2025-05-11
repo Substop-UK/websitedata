@@ -1,14 +1,5 @@
 [
   {
-    "department": "In Store Roles",
-    "role_name": "Crew Member",
-    "description": "Join our frontline team...",
-    "description2": "Join our frontline team as a Crew Member, Trainee Crew Member, Junior Crew Member, or Senior Crew Member to provide exceptional service to customers in our virtual stores.",
-    "link2": "discord.com",
-    "link": "/apply/1",
-    "exclusive": false
-  },
-  {
     "department": "Executive Team",
     "role_name": "Assistant Development Officer",
     "description": "For those with exceptional leadership and development skills.",
