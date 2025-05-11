@@ -3,13 +3,13 @@
     "department": "in-Store Roles",
     "role_name": "Crew Member",
     "description": "Join our frontline team...",
-    "link": "substop.org.uk/apply/corporate",
+    "link": "/apply/corporate",
     "exclusive": false
   },
   {
     "role_name": "Executive Opportunities",
     "description": "For those with exceptional leadership skills...",
-    "link": "substop.org.uk/apply/executive",
+    "link": "/apply/executive",
     "exclusive": true
   }
 ]
