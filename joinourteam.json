@@ -7,5 +7,14 @@
     "link": "/apply/2",
     "link2": "https://forms.gle/GKNn6YCcmWyNfuzd7",
     "exclusive": true
-  }
+  },
+  {
+  "department": "In-Store Staff",
+  "role_name": "Trainee Crew Member",
+  "description": "Begin your journey in our Roblox subway as a Trainee Crew Member and learn the basics of station operations.",
+  "description2": "We're searching for passionate and reliable individuals ready to take on a vital role in our Substop Restaurants.\n\nResponsibilities:\n- Assist customer\n- Make sandwiches\n- Clean the restaurant\n- Maintain order and follow station safety protocols\n- Prepare to advance into higher roles within the subway team",
+  "link": "/apply/1",
+  "link2": "roblox.com",
+  "exclusive": false
+}
 ]
