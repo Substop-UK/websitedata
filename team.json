@@ -1,44 +1,37 @@
 [
     {
-    "name": "Matthew Lindop",
-    "username": "m8ttech",
-    "role": "Managing Director",
-    "avatar": "794487962783842336",
-    "mail": "matthew@substop.org.uk"
+    "name": "Alfie Adler",
+    "username": "alf1ie1",
+    "role": "Chief Executive Officer",
+    "avatar": "779751701225275415",
+    "mail": "alfie@substop.uk"
   },
     {
-    "name": "Max Heughan",
-    "username": "max_heug",
+    "name": "Alex Brooks",
+    "username": "RedNinjaAlex10",
     "role": "Chief Operations Officer",
-    "avatar": "1155626670183694437",
-    "mail": "max@substop.org.uk"
+    "avatar": "713071808097681448",
+    "mail": "alex@substop.uk"
   },
     {
-    "name": "N/A",
-    "username": "N/A",
-    "role": "Chief Staffing Officer",
-    "avatar": "0",
-    "mail": "N/A"
+    "name": "Sam Saurus",
+    "username": "sammysaurusfr",
+    "role": "Chief Communication Officer",
+    "avatar": "1276682119673938055",
+    "mail": "sam@substop.uk"
   },
   {
-    "name": "Lucas Lundy",
-    "username": "Mufc_footy",
-    "role": "Chief Communications Officer",
-    "avatar": "779376979597983745",
-    "mail": "lucas.lundy@substop.org.uk"
+    "name": "Tom Jobs",
+    "username": "tudoxsteve",
+    "role": "Chief Development Officer",
+    "avatar": "693739521413742683",
+    "mail": "tom@substop.uk"
   },
   {
     "name": "Matthew Edwards",
     "username": "WilkcSwe",
-    "role": "Chief Development Officer",
+    "role": "Head Devloper",
     "avatar": "1004421089398632468",
-    "mail": "matthew.edwards@substop.org.uk"
-  },
-  {
-    "name": "N/A",
-    "username": "N/A",
-    "role": "Assistant Development Officer",
-    "avatar": "0",
-    "mail": "N/A"
+    "mail": "matthew@substop.uk"
   }
 ]
